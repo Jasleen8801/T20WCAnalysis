@@ -1,4 +1,6 @@
 # T20WCAnalysis
 
-This data analysis project is reference to the Cricket T20 World Cup 2022.<br/>
-To view the detailed report in Microsoft Power BI, head over to the following link: https://app.powerbi.com/groups/me/reports/134a2a95-6f43-4b49-9f3d-63f5f0c12cb8/ReportSection3a8cb23b814911c94608
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=003EFF&vCenter=true&width=435&lines=You+can+cut+the+tension+with+a+;cricket+stump)](https://git.io/typing-svg)
+
+This is a data analysis project in reference to the Cricket T20 World Cup 2022. <br/><br/>
+To view the detailed report in Microsoft Power BI, head over to the following link: https://tinyurl.com/mwsdvhxp
